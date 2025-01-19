@@ -1,0 +1,10 @@
+Сегодня мы начали изучать Python! Сегодня на уроке мы написали мини диалог:
+name = input("What is your name?")
+print("Hello", name, "!")
+print("Nice to meet you", name, "!")
+age = input("How old are you?")
+print("I am",age, "years old!")
+movie = input("What is your favourite movie?")
+print("My favourite movie is",movie)
+
+print("His name is",name,",he is",age,"years old", ",his favourite movie is",movie)
