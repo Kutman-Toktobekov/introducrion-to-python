@@ -1,0 +1,14 @@
+num1 =float(input('Введите первое число - '))
+num2 =float(input('Введите второе число - '))
+suma = num1+num2
+suma2 = int(num1+num2)
+minus = num1-num2
+minus2 = int(num1-num2)
+umno= num1*num2
+umno2= int(num1*num2)
+delenie = num1/num2
+delenie2 = int(num1/num2)
+print(f'Сумма чисел равна {suma}, сумма без остатка равна {suma2}\n '
+      f'разность чисел равна {minus}, разность без остатка равна {minus2}\n '
+      f'умножение двух чисел равна {umno}, умножение без остатка равна {umno2}\n '
+      f'делимое двух чисел равна {delenie}, деление без остатка равна {delenie2}\n ')
